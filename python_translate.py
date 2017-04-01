@@ -57,7 +57,7 @@ def get_sequences_from_file(fasta_fn):
 #     for-loop through every 3rd position in string_nucleotides to get the codon using range subsets
 #         # IMPORTANT: if the sequence has a stop codon at the end, you should leave it off
 #         # this is how you can retrieve the amino acid: mito_table.forward_table[codon]
-#         add the aa to aa_seq_string
+#         add the aa to aa_sea_string
 #     return(aa_seq_string)
 
 ## 3 ##
